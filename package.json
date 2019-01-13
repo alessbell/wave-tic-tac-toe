@@ -1,0 +1,22 @@
+{
+  "name": "wave-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "❌ Tic Tac Toe ⭕️",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "url": "https://gitlab.com/alessbell/wave-tic-tac-toe",
+    "type": "git"
+  },
+  "author": "Alessia Bellisario",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
