@@ -1,6 +1,6 @@
 # Minimax Tic Tac Toe
 
-## Try it out: [http://localhost:3000/?board=ox+x+++++](http://localhost:3000/?board=ox+x+++++)
+## Try it out: [https://wave-tic-tac-toe.herokuapp.com/?board=ox+x+++++](https://wave-tic-tac-toe.herokuapp.com/?board=ox+x+++++)
 
 This little app takes a `board` querystring. `board` should be a nine character string that represents a tic tac toe board, moving left to right beginning from the top row.
 
